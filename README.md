@@ -1,6 +1,6 @@
 # Looking for your first job as a Software Developer
 
-Tis is the README version
+This is the README version
 
 If you are starting your career in software development, the choices you make will determine your options in the future. I wanted to share my experiences for people looking to land their first job after graduation.
 
