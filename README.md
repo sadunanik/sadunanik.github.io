@@ -1,5 +1,7 @@
 # Looking for your first job as a Software Developer
 
+Tis is the README version
+
 If you are starting your career in software development, the choices you make will determine your options in the future. I wanted to share my experiences for people looking to land their first job after graduation.
 
 It is always challenging to graduate from a University and start working for a salary. I do a lot of interviews, and one of the questions I like to as is what the candidate is expecting from his/her job. Number one answer I get is "I want work with new technologies, learn and use latest programming languages".  The second most popular answer I get is "I want to design and build _new_ software".
